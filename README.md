@@ -11,6 +11,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 01](./Day01-TimeComplexity) → Time Complexity (O(1), O(n), O(n^2))
 - [Day 02](./Day02-Patterns-Recursion) → Pattern Printing (loops & stars) + Introduction to Recursion
 - [Day 03](./Day03-Recursion-Basics) → Basic Recursion problems (print numbers, sum, reverse array)
+- [Day 04](./Day04-Recursion-Advanced) → Advanced Recursion (subsequences, subsets, power, permutations)
 - Day 04 → Coming soon...
 
 ---
