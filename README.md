@@ -16,7 +16,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 06](./Day06-Arrays-Medium) → Arrays Medium (rotate, move zeroes, union, intersection)
 - [Day 07](./Day07-Arrays-Hard) → Arrays Hard (Kadane’s, 2-sum, 3-sum, max product subarray)
 - [Day 08](./Day08-BinarySearch-Basics) → Binary Search Basics (iterative, recursive, first/last occurrence, floor/ceil)
-- Day 07 → Coming soon...
+- Day 09 → Coming soon...
 
 ---
 
