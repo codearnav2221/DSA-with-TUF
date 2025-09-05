@@ -14,6 +14,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 04](./Day04-Recursion-Advanced) → Advanced Recursion (subsequences, subsets, power, permutations)
 - [Day 05](./Day05-Arrays-Basics) → Arrays basics (max, min, reverse, linear search, sorted check)
 - [Day 06](./Day06-Arrays-Medium) → Arrays Medium (rotate, move zeroes, union, intersection)
+- [Day 08](./Day08-BinarySearch-Basics) → Binary Search Basics (iterative, recursive, first/last occurrence, floor/ceil)
 - Day 07 → Coming soon...
 
 ---
