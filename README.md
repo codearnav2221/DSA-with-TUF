@@ -18,7 +18,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 08](./Day08-BinarySearch-Basics) → Binary Search Basics (iterative, recursive, first/last occurrence, floor/ceil)
 - [Day 09](./05-Sorting-Searching/Day09-BinarySearch-Advanced) → Binary Search Advanced (rotated array, single element, peak element, sqrt)
 - [Day 10](./05-Sorting-Searching/Day10-Sorting-Basics) → Sorting basics (Bubble, Selection, Insertion, Merge, Quick)
-- Day 10 → Coming soon...
+- Day 11 → Coming soon...
 
 ---
 
