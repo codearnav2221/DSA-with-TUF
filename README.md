@@ -19,7 +19,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 09](./05-Sorting-Searching/Day09-BinarySearch-Advanced) → Binary Search Advanced (rotated array, single element, peak element, sqrt)
 - [Day 10](./05-Sorting-Searching/Day10-Sorting-Basics) → Sorting basics (Bubble, Selection, Insertion, Merge, Quick)
 - [Day 11](./05-Sorting-Searching/Day11-Sorting-Searching-Advanced) → Binary Search on Answers (Allocate Pages, Aggressive Cows, Painter’s Partition, Koko Bananas)
-- Day 12 → Coming soon...
+- [Day 12](./06-LinkedList/Day12-LinkedList-Basics) → Singly Linked List basics (insert, delete, traverse)
+
+- Day 13 → Coming soon...
 
 ---
 
