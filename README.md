@@ -20,8 +20,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 10](./05-Sorting-Searching/Day10-Sorting-Basics) → Sorting basics (Bubble, Selection, Insertion, Merge, Quick)
 - [Day 11](./05-Sorting-Searching/Day11-Sorting-Searching-Advanced) → Binary Search on Answers (Allocate Pages, Aggressive Cows, Painter’s Partition, Koko Bananas)
 - [Day 12](./06-LinkedList/Day12-LinkedList-Basics) → Singly Linked List basics (insert, delete, traverse)
+- [Day 13](./06-LinkedList/Day13-Reverse-LinkedList) → Reverse Linked List (Iterative + Recursive)
 
-- Day 13 → Coming soon...
+- Day 14 → Coming soon...
 
 ---
 
