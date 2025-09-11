@@ -23,7 +23,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 13](./06-LinkedList/Day13-Reverse-LinkedList) → Reverse Linked List (Iterative + Recursive)
 - [Day 14](./06-LinkedList/Day14-Middle-Cycle) → Middle of LL & Cycle Detection (Floyd’s Algorithm)
 
-- Day 14 → Coming soon...
+- Day 15 → Coming soon...
 
 ---
 
