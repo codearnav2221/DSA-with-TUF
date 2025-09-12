@@ -22,8 +22,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 12](./06-LinkedList/Day12-LinkedList-Basics) → Singly Linked List basics (insert, delete, traverse)
 - [Day 13](./06-LinkedList/Day13-Reverse-LinkedList) → Reverse Linked List (Iterative + Recursive)
 - [Day 14](./06-LinkedList/Day14-Middle-Cycle) → Middle of LL & Cycle Detection (Floyd’s Algorithm)
+- [Day 15](./06-LinkedList/Day15-Merge-RemoveNth) → Merge Two Sorted Lists + Remove N-th Node
 
-- Day 15 → Coming soon...
+- Day 16 → Coming soon...
 
 ---
 
