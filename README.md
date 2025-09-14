@@ -24,6 +24,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 14](./06-LinkedList/Day14-Middle-Cycle) → Middle of LL & Cycle Detection (Floyd’s Algorithm)
 - [Day 15](./06-LinkedList/Day15-Merge-RemoveNth) → Merge Two Sorted Lists + Remove N-th Node
 - [Day 16](./06-LinkedList/Day16-DeleteMiddle-Intersection) → Delete Middle Node & Intersection of Linked Lists
+- [Day 17](./06-LinkedList/Day17-Loop-Flatten) → Detect & Remove Loop + Flatten Multilevel Linked List
 
 - Day 17 → Coming soon...
 
