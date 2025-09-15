@@ -25,8 +25,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 15](./06-LinkedList/Day15-Merge-RemoveNth) → Merge Two Sorted Lists + Remove N-th Node
 - [Day 16](./06-LinkedList/Day16-DeleteMiddle-Intersection) → Delete Middle Node & Intersection of Linked Lists
 - [Day 17](./06-LinkedList/Day17-Loop-Flatten) → Detect & Remove Loop + Flatten Multilevel Linked List
+- [Day 18](./06-LinkedList/Day18-Rotate-CopyRandom) → Rotate LL + Copy List with Random Pointer
 
-- Day 17 → Coming soon...
+- Day 19 → Coming soon...
 
 ---
 
