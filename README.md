@@ -29,8 +29,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 19](./06-LinkedList/Day19-AddTwoNumbers-FlattenBT) → Add Two Numbers (LL) + Flatten Binary Tree to Linked List
 - [Day 20](./06-LinkedList/Day20-SortLL-ReorderLL) → Sort Linked List + Reorder List
 - [Day 21](./06-LinkedList/Day21-DetectCycle-RemoveNth) → Detect Cycle in LL + Remove N-th Node from End
+- [Day 22](./06-LinkedList/Day22-KGroup-LRUCache) → Reverse Nodes in k-Group + LRU Cache
 
-- Day 22 → Coming soon...
+- Day 23 → Coming soon...
 
 ---
 
