@@ -31,8 +31,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 21](./06-LinkedList/Day21-DetectCycle-RemoveNth) → Detect Cycle in LL + Remove N-th Node from End
 - [Day 22](./06-LinkedList/Day22-KGroup-LRUCache) → Reverse Nodes in k-Group + LRU Cache
 - [Day 23](./06-LinkedList/Day23-CloneLL-LFUCache) → Clone LL (Random Pointer, review) + LFU Cache
+- [Day 24](./06-LinkedList/Day24-Intersection-Palindrome) → Intersection of Two Linked Lists + Palindrome Linked List
 
-- Day 23 → Coming soon...
+- Day 25 → Coming soon...
 
 ---
 
