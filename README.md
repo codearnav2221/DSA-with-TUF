@@ -32,7 +32,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 22](./06-LinkedList/Day22-KGroup-LRUCache) → Reverse Nodes in k-Group + LRU Cache
 - [Day 23](./06-LinkedList/Day23-CloneLL-LFUCache) → Clone LL (Random Pointer, review) + LFU Cache
 - [Day 24](./06-LinkedList/Day24-Intersection-Palindrome) → Intersection of Two Linked Lists + Palindrome Linked List
-- [Day 25](./06-LinkedList/Day25-Flatten-Sort) → Flatten a Linked List + Sort a Linked List
+- [Day 25](./Day25-Flatten-Sort) → Flatten a Linked List + Sort a Linked List
 
 - Day 26 → Coming soon...
 
