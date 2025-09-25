@@ -33,8 +33,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 23](./06-LinkedList/Day23-CloneLL-LFUCache) → Clone LL (Random Pointer, review) + LFU Cache
 - [Day 24](./06-LinkedList/Day24-Intersection-Palindrome) → Intersection of Two Linked Lists + Palindrome Linked List
 - [Day 25](./Day25-Flatten-Sort) → Flatten a Linked List + Sort a Linked List
+- [Day 26](./06-LinkedList/Day26-Reorder-Rotate) → Reorder List + Rotate List
 
-- Day 26 → Coming soon...
+- Day 27 → Coming soon...
 
 ---
 
