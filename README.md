@@ -36,7 +36,7 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 26](./Day26-Reorder-Rotate) → Reorder List + Rotate List
 - [Day 27](./Day27-Swap-KGroup) → Swap Nodes in Pairs + Reverse Nodes in k-Group (Iterative)
 
-- Day 29 → Coming soon...
+- Day 28 → Coming soon...
 
 ---
 
