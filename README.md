@@ -35,8 +35,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 25](./Day25-Flatten-Sort) → Flatten a Linked List + Sort a Linked List
 - [Day 26](./Day26-Reorder-Rotate) → Reorder List + Rotate List
 - [Day 27](./Day27-Swap-KGroup) → Swap Nodes in Pairs + Reverse Nodes in k-Group (Iterative)
+- [Day 28](./06-LinkedList/Day28-EvenGroup-OddEven) → Reverse Nodes in Even Length Groups + Odd-Even Linked List
 
-- Day 28 → Coming soon...
+- Day 29 → Coming soon...
 
 ---
 
