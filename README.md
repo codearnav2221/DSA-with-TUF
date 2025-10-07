@@ -37,7 +37,6 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 27](./Day27-Swap-KGroup) → Swap Nodes in Pairs + Reverse Nodes in k-Group (Iterative)
 - [Day 28](./Day28-EvenGroup-OddEven) → Reverse Nodes in Even Length Groups + Odd-Even Linked List
 - [Day 30](./Day30-Cycle-Detection-Intersection) → Detect Cycle, Remove Cycle, Find Intersection in Linked List
-
 - Day 29 → Coming soon...
 
 ---
