@@ -37,9 +37,10 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 27](./Day27-Swap-KGroup) → Swap Nodes in Pairs + Reverse Nodes in k-Group (Iterative)
 - [Day 28](./Day28-EvenGroup-OddEven) → Reverse Nodes in Even Length Groups + Odd-Even Linked List
 - [Day 30](./Day30-Cycle-Detection-Intersection) → Detect Cycle, Remove Cycle, Find Intersection in Linked List
-- [Day 31](./06-LinkedList/Day31-Flatten-MergeK) → Flatten Multilevel Linked List + Merge K Sorted Linked Lists
+- [Day 31](./Day31-Flatten-MergeK) → Flatten Multilevel Linked List + Merge K Sorted Linked Lists
+- [Day 32](./Day32-LRU-Cache) → LRU Cache (Design + Implementation using HashMap & Doubly Linked List)
 
-- Day 32 → Coming soon...
+- Day 33 → Coming soon...
 
 ---
 
