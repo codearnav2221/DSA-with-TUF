@@ -39,8 +39,9 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 30](./Day30-Cycle-Detection-Intersection) → Detect Cycle, Remove Cycle, Find Intersection in Linked List
 - [Day 31](./Day31-Flatten-MergeK) → Flatten Multilevel Linked List + Merge K Sorted Linked Lists
 - [Day 32](./Day32-LRU-Cache) → LRU Cache (Design + Implementation using HashMap & Doubly Linked List)
+- [Day 33](./Day33-LFU-Cache) → LFU Cache (Design + Implementation using HashMap & Frequency List)
 
-- Day 33 → Coming soon...
+- Day 34 → Coming soon...
 
 ---
 
