@@ -40,7 +40,6 @@ I will solve problems daily in **Java** and maintain notes for quick revision.
 - [Day 31](./Day31-Flatten-MergeK) → Flatten Multilevel Linked List + Merge K Sorted Linked Lists
 - [Day 32](./Day32-LRU-Cache) → LRU Cache (Design + Implementation using HashMap & Doubly Linked List)
 - [Day 33](./Day33-LFU-Cache) → LFU Cache (Design + Implementation using HashMap & Frequency List)
-
 - Day 34 → Coming soon...
 
 ---
